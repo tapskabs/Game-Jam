@@ -9,14 +9,14 @@ public class Door : MonoBehaviour
 
     void Start()
     {
-        fadeManager = FindObjectOfType<FadeManager>();
+       // fadeManager = FindObjectOfType<FadeManager>();
     }
 
     void OnTriggerStay2D(Collider2D other)
     {
         if (other.CompareTag("Player") && Input.GetKeyDown(KeyCode.E))
         {
-            StartCoroutine(fadeManager.FadeInAndOut(1f, other.gameObject, teleportLocation)); 
+           // StartCoroutine(fadeManager.FadeInAndOut(1f, other.gameObject, teleportLocation)); 
         }
     }
 }

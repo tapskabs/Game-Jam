@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 1808db17cdd889747bee3f09d7ed0189
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 878
+        width: 1087
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67f5003536ed445823a6f669fc8839
+      internalID: -1109099757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 939
+        width: 235
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d076825904ce1804d884b56eb3d4827c
+      internalID: -1161463741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 950
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cb5a6e97da24429c9572bec685f15
+      internalID: -826173477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 865
+        width: 47
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809c527ae0045a4e95016b6a50750c1
+      internalID: 316747451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_4
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 915
+        width: 45
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019eed377e76c0c4c8087acf1a7aab95
+      internalID: 176142394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_5
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 862
+        width: 88
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36464ffe1932874c8e915b27d27dc4a
+      internalID: 1848338262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 905
+        width: 48
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864552df8de5b5640a6c7012d151d539
+      internalID: -1146963667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 780
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9bd87308113846ae01c5cbcb0df9b
+      internalID: -397720254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_8
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 721
+        width: 359
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36953923384e8f4fbda6fef173faec1
+      internalID: 677297467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 704
+        width: 258
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a8745431308e429016ee00444faba
+      internalID: -145400750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 716
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b543e92c7d69f4691daeb35be0b080
+      internalID: 1305785536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 716
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2e2c2f8f5a73444be59458c3e3079b
+      internalID: -978211438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 687
+        width: 248
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd809f8c6124924e95115580ca35ead
+      internalID: -809388942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_13
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 304
+        width: 216
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddfe16cca814e448aa72946bb1ee51b
+      internalID: -237555962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_14
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 704
+        width: 182
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc6e673f29a5c548bae4f40ca360b22
+      internalID: 1210999024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_15
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 1294
+        height: 207
+      alignment: 9
+      pivot: {x: 0.6654053, y: 0.66321915}
+      border: {x: 0, y: 0, z: 214, w: 207}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a414ed06fc3342b71afdfea9ba08d
+      internalID: 2002540255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_16
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 616
+        width: 219
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134324853016064b9ee2fa9be3b3e0c
+      internalID: 1269466052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 488
+        width: 251
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593c63d7eb776b94a8ea4f9024440cca
+      internalID: -827375849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 394
+        width: 149
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9548665af7f6f42b2f55e4102743e6
+      internalID: 630186128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 396
+        width: 207
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b606bdb17e89514eab6e504ece7f3a6
+      internalID: -1172128798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_20
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 478
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e1687ab5b9404098afab4940d8fd7
+      internalID: -980472327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_21
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 499
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9efa38e48caa9d4ab4f51a6f04434e6
+      internalID: -502149880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_22
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 262
+        width: 108
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd43c652e510a4b8f4bdae44336095
+      internalID: 1879193924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_23
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 417
+        width: 231
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c3316f2c31054abc0aa07652f66d7
+      internalID: -414970004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_24
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 335
+        width: 139
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4646e6557a823e4589367e19f36c91d
+      internalID: -50677562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 1121
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9f2c689a16ea4486b71e184c7090d
+      internalID: -1245899387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset_Creation_Apartment_Lounge_Furniture_26
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 241
+        width: 401
+        height: 439
+      alignment: 9
+      pivot: {x: -0.8634817, y: 1.6402347}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae4a3063e0b6d418ca6dda03a175cb
+      internalID: 1326019288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9923abfe26abcff4a988243ca925da08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asset_Creation_Apartment_Lounge_Furniture_11: -978211438
+      Asset_Creation_Apartment_Lounge_Furniture_1: -1161463741
+      Asset_Creation_Apartment_Lounge_Furniture_6: -1146963667
+      Asset_Creation_Apartment_Lounge_Furniture_18: 630186128
+      Asset_Creation_Apartment_Lounge_Furniture_0: -1109099757
+      Asset_Creation_Apartment_Lounge_Furniture_13: -237555962
+      Asset_Creation_Apartment_Lounge_Furniture_22: 1879193924
+      Asset_Creation_Apartment_Lounge_Furniture_24: -50677562
+      Asset_Creation_Apartment_Lounge_Furniture_3: 316747451
+      Asset_Creation_Apartment_Lounge_Furniture_26: 1326019288
+      Asset_Creation_Apartment_Lounge_Furniture_2: -826173477
+      Asset_Creation_Apartment_Lounge_Furniture_10: 1305785536
+      Asset_Creation_Apartment_Lounge_Furniture_15: 2002540255
+      Asset_Creation_Apartment_Lounge_Furniture_9: -145400750
+      Asset_Creation_Apartment_Lounge_Furniture_14: 1210999024
+      Asset_Creation_Apartment_Lounge_Furniture_17: -827375849
+      Asset_Creation_Apartment_Lounge_Furniture_8: 677297467
+      Asset_Creation_Apartment_Lounge_Furniture_4: 176142394
+      Asset_Creation_Apartment_Lounge_Furniture_25: -1245899387
+      Asset_Creation_Apartment_Lounge_Furniture_5: 1848338262
+      Asset_Creation_Apartment_Lounge_Furniture_7: -397720254
+      Asset_Creation_Apartment_Lounge_Furniture_23: -414970004
+      Asset_Creation_Apartment_Lounge_Furniture_12: -809388942
+      Asset_Creation_Apartment_Lounge_Furniture_19: -1172128798
+      Asset_Creation_Apartment_Lounge_Furniture_20: -980472327
+      Asset_Creation_Apartment_Lounge_Furniture_16: 1269466052
+      Asset_Creation_Apartment_Lounge_Furniture_21: -502149880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

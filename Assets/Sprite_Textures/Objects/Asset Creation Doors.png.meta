@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,18 +103,678 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Asset Creation Doors_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 611
+        width: 249
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e28687d0b52742bf4207f0e75daf5
+      internalID: -91368389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 613
+        width: 258
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115500fa37313194dbf5f43f8f308fb6
+      internalID: -542969961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 610
+        width: 249
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b2a0db4dc1814cb37c1689f22eaa0
+      internalID: 1252630810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 618
+        width: 249
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b28c7322077844ca1cda8cdfafff80
+      internalID: -524758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_4
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 617
+        width: 249
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91884247ea88ef341b45683fa049882a
+      internalID: 1954322636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_5
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 611
+        width: 320
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a7a5f0ce19ab4aa104e76729043ec
+      internalID: -1788840057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_6
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 812
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad392e406327da44ad0292bb61eae77
+      internalID: -590271613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_7
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 600
+        width: 252
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e16496a4ae1cc43b7c5ba56f2d854a
+      internalID: -80737662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_8
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 618
+        width: 248
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c15688ab0b27e4eb0505739262510e
+      internalID: 687614001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 611
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca114b36b9a134d92a7c9d0858c45b
+      internalID: 1748492647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 610
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdc55aa5c50ea84d807fda27b3fb3e0
+      internalID: 996306519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 613
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6665209b529100042abf175fdd761e15
+      internalID: -2056083820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_12
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 613
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140d435b6d5db34f933aa60ee903de8
+      internalID: -560470396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_13
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 612
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58cf0f6a199ae24b9ccacf71f2cb0f7
+      internalID: -1518634275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_14
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 612
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7584b7c2001449bc46658057bf7bd
+      internalID: -34229746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_15
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 613
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfccdf3fadb6824894c7ee6a5abf854
+      internalID: 1618344594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_16
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 613
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc9f918dce77c469e9144ba2074d26
+      internalID: -1823187549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 608
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6288dd54f269704ab91b2b2a1a77c58
+      internalID: 377710109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 608
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a76bd30b8dc24a80622dcaed122b5
+      internalID: 1974208653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 88
+        width: 249
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c28a41399f7234da5e36064c92e619
+      internalID: 284293046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 83
+        width: 249
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebb275d6a13e264a823a4434cbe0ab8
+      internalID: 812906749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 84
+        width: 249
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7487a3704d00a4599d0e8f26b71dd6
+      internalID: -860218542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_22
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 101
+        width: 249
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4388e3a3fceb33429921627da610c1b
+      internalID: -347546992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_23
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 82
+        width: 249
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08998f90e5386049802e7ce63ffba66
+      internalID: 1763776861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_24
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 106
+        width: 249
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef049afdf529a6e4bb9d4d9fd0115255
+      internalID: 1616524491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_25
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 71
+        width: 293
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b96be841f7d7046b38861f2f6ecab0
+      internalID: 1478103756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_26
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 83
+        width: 261
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8602d49314e434da6a202606a8f046
+      internalID: 45547164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_27
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 101
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930fd4b51053b94faf2a3d005303d56
+      internalID: -60095477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_28
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 101
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464d042a5a72bc40ae1f477f5f86b5f
+      internalID: 650219391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Creation Doors_29
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 101
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b695db5eadd4548b3e286a99d5a4a5
+      internalID: 1924822161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 60d7ba5def2fcd74ca701912ef8f8a04
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Asset Creation Doors_26: 45547164
+      Asset Creation Doors_2: 1252630810
+      Asset Creation Doors_0: -91368389
+      Asset Creation Doors_1: -542969961
+      Asset Creation Doors_27: -60095477
+      Asset Creation Doors_29: 1924822161
+      Asset Creation Doors_10: 996306519
+      Asset Creation Doors_9: 1748492647
+      Asset Creation Doors_25: 1478103756
+      Asset Creation Doors_12: -560470396
+      Asset Creation Doors_24: 1616524491
+      Asset Creation Doors_18: 1974208653
+      Asset Creation Doors_16: -1823187549
+      Asset Creation Doors_14: -34229746
+      Asset Creation Doors_21: -860218542
+      Asset Creation Doors_11: -2056083820
+      Asset Creation Doors_19: 284293046
+      Asset Creation Doors_7: -80737662
+      Asset Creation Doors_3: -524758807
+      Asset Creation Doors_17: 377710109
+      Asset Creation Doors_13: -1518634275
+      Asset Creation Doors_28: 650219391
+      Asset Creation Doors_6: -590271613
+      Asset Creation Doors_20: 812906749
+      Asset Creation Doors_8: 687614001
+      Asset Creation Doors_4: 1954322636
+      Asset Creation Doors_22: -347546992
+      Asset Creation Doors_23: 1763776861
+      Asset Creation Doors_15: 1618344594
+      Asset Creation Doors_5: -1788840057
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

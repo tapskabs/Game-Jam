@@ -8,6 +8,8 @@ using UnityEngine.Rendering.Universal;
 public class FlickeringLights : MonoBehaviour
 {
     [SerializeField] private Light2D light;
+    private AudioManager audioManager; // Reference to AudioManager
+
 
     private int frames = 0;
 

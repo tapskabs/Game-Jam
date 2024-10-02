@@ -12,7 +12,7 @@ public class Door : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Player detected inside door trigger.");
-
+            audioManager.PlaySFX(audioManager.SqueakyDoor);
             if (Input.GetKeyDown(KeyCode.E))
             {
                 Debug.Log("Teleport initiated.");
@@ -32,5 +32,13 @@ public class Door : MonoBehaviour
         {
             Debug.LogWarning("Teleport location is not set!");
         }
+    }
+
+    AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindWithTag("Audio").GetComponent<AudioManager>();
+
     }
 }
